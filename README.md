@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
-<h3 align="center">An IT Sophomore who loves exploring new field and passionate frontend developer from India</h3>
+<h3 align="center">A computer science enthusiast who loves and passionate about exploring emerging technologies </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshud2611&label=Profile%20views&color=0e75b6&style=flat" alt="himanshud2611" /> </p>
 
